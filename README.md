@@ -1,9 +1,18 @@
 <div align="center">
 
+<br />
+
 ### Software · Data · Automation · AI
 
-I build practical technical solutions with a focus on business applications of AI.
+<samp>
+Practical tools, structured systems and business-focused AI.
+</samp>
 
-[GitHub](https://github.com/Oliwer-Krupa) · [Email](mailto:oliver246@gmail.com)
+<br />
+<br />
+
+<a href="mailto:oliver246@gmail.com">contact</a>
+
+<br />
 
 </div>
